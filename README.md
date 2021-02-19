@@ -1,4 +1,4 @@
-# Dogject
+# Dogject  
   Similar object detection modeling
   유사한 오브젝트를 탐지 & 분류하는 CNN model 구축
   #DataScience #WebCrawling #CNN #Classification #Detecting
